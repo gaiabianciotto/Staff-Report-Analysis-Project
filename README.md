@@ -24,4 +24,3 @@ This project analyzes employee records from the `cert.staff` dataset using SAS t
 
 ## Author
 Gaia Bianciotto
-*Your Name*
