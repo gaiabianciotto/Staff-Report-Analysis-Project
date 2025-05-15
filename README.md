@@ -12,7 +12,7 @@ This project analyzes employee records from the `cert.staff` dataset using SAS t
 
 ## Project Files
 - `sas_code/staff_analysis.sas`: Main SAS program
-- `data/cert.staff_sample.csv`: Sample anonymized input data
+- `staff.sas7bdat`: Sample anonymized input data
 - `output/report_summary.txt`: Output summary report
 
 ## Requirements
