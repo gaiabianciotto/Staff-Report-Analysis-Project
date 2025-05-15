@@ -22,9 +22,3 @@ proc means data=work.staffReports sum maxdec=3;
     var raise;
     title 'Grand Total of Raise';
 run;
-
-/*
-Q1: For observation 5, what is the value of DOB ? 28-04-1951
-Q2: For observation 6, what is the value of raise ? Round your answer to 1 decimal places. 5
-Q3: What is the grand total of Raise for the entire data set ? 24.408
-*/
